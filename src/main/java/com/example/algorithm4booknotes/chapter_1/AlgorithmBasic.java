@@ -1,7 +1,12 @@
 package com.example.algorithm4booknotes.chapter_1;
 
+import edu.princeton.cs.algs4.Draw;
+import edu.princeton.cs.algs4.StdDraw;
+
 public class AlgorithmBasic {
     public static void main(String[] args) {
+
+        new AlgorithmBasic().printImageline();
 
     }
 
@@ -10,6 +15,8 @@ public class AlgorithmBasic {
      */
     public void printImageline(){
         int n = 100;
-//        StdDraw.set
+        String a= "123";
+        System.out.println(a);
+//        StdDraw.arc();
     }
 }
